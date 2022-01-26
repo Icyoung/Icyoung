@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Icyoung.Icyoung)
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week

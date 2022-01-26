@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week

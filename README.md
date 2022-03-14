@@ -2,10 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart     58 mins         ██████████████████████▒░░   88.88 %
-XML      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Kotlin   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-YAML     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

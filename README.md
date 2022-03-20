@@ -2,7 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart                          32 mins         █████████████████████████   99.76 %
+Application Resource Bundle   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+ObjectiveC                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML                          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

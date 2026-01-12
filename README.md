@@ -1,8 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Icyoung.Icyoung)
 
-*I am icy, an android engineer*
-- Java, Kotlin, Dart, Go  
-- Native Android app development  
-- Flutter app cross-platform development
-- Spring app backend development  
-- Go backend development
+*I am icy, a fullstack engineer*
+- Kotlin, Dart, Go, React, NodeJS, Python, Rust
+- Frontend / Backend development
+- Native / Cross-platform development
+- Focus CEX, DEX, Crypto, Trading, AI

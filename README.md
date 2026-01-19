@@ -2,4 +2,4 @@
 - Kotlin, Dart, Go, React, NodeJS, Python, Rust
 - Frontend / Backend development
 - Native / Cross-platform development
-- Focus CEX, DEX, Crypto, Trading, AI
+- Focus CEX, DEFI, Crypto, Trading, AI
